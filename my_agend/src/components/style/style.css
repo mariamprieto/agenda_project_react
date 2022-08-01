@@ -1,0 +1,46 @@
+.image-card{
+    
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+} 
+.text-center{
+text-transform:capitalize;
+color:darkslategray;
+}
+
+.titulo{
+    text-transform:capitalize;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  text-align: center;
+ 
+   
+   
+}
+.nav-bar{
+
+    background-color:aliceblue;
+}
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgb(0 0 0 / 15%);
+    padding: 24px 32px 32px 32px;
+    margin-top: 20px;
+    color: darkslategray;
+    
+  }
+  .newCard{
+    padding: 10px;
+  }
+ 
+ 
+  .guardar{
+     margin-top: 10px;
+    margin-left: 140px;
+  }
+   .Apagar{
+    background-color: blueviolet;
+   }
+ 
